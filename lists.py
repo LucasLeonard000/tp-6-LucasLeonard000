@@ -8,7 +8,6 @@ def remove_elements(list_to_remove_elements):
 		del lista[4]	
 	if len(lista) > 0:
 		del lista[0]
-
 	return lista
 
 
